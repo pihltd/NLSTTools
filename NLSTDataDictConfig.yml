@@ -1,0 +1,14 @@
+nlstdocx:
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\dictionary_idc_canc_idc-20210527.docx'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\dictionary_idc_ctab_idc-20210527.docx'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\dictionary_idc_ctabc_idc-20210527.docx'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\dictionary_idc_prsn_idc-20210527.docx'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\dictionary_idc_screen_idc-20210527.docx'
+DictFile: 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\NLST_data_dictionary.yml'
+datafiles:
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\data\nlst_780_canc_idc_20210527.csv'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\data\nlst_780_ctab_idc_20210527.csv'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\data\nlst_780_ctabc_idc_20210527.csv'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\data\nlst_780_prsn_idc_20210527.csv'
+  - 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\data\nlst_780_screen_idc_20210527.csv'
+outputDir: 'C:\Users\pihltd\Documents\NLST\package-nlst-780.2021-05-28\nlst_780\nlst780.idc.delivery.052821\data\'
