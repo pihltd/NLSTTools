@@ -1,7 +1,6 @@
 import pandas as pd
 import argparse
 from crdclib import crdclib
-#from striprtf.striprtf import rtf_to_text
 from docx import Document    
 
 def parseTable(df, table):
